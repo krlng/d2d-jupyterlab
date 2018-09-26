@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyterlab/toc @jupyterlab/geojson-extension jupyterlab-drawio
+jupyter labextension install @jupyterlab/toc @jupyterlab/geojson-extension
